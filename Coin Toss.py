@@ -1,3 +1,4 @@
+# this is the name of the file not the name of the class
 import CoinClass as c
 
 
